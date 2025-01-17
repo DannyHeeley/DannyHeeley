@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DannyHeeley
-- 👀 I’m interested in ... Writing clean, high qualiyt, testable code with a focus on quality and great user experiences.
-- 💞️ I’m looking to collaborate on ... I am open to ideas whilst i build out my portfolio
+- 👀 I’m interested in ... Building software, and writing clean, high quality, and testable code.
 - 📫 How to reach me ... https://www.linkedin.com/in/danny-heeley/
 
 <!---
